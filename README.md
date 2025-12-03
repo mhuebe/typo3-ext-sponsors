@@ -1,1 +1,1 @@
-# typo3-sponsors
+# typo3-ext-sponsors
